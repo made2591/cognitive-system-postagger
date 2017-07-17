@@ -2,7 +2,7 @@
 
 A pos-tagging library with Viterbi, CYK and SVO -> XSV translator made (English to Yodish) as part of my final exam for the Cognitive System course in Department of Computer Science. This README is a really bad translation of README_ita.md, made in ```nightly-build``` mode, so please excuse me for typos. The entire project is fully commented using italian, as log and cli because I'm from Italy and I was a newbie. One day I will translate this, promised :D :D :D !!!
 
-###Contents:
+### Contents:
 
 [[1] Execution](#execution)
 
